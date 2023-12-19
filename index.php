@@ -506,7 +506,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Portfolio</h2>
-          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
+          <p>Our portfolio provides a visual and narrative representation of our expertise, creativity, and successful outcomes.</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="200">
