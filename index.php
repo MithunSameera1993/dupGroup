@@ -412,7 +412,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit eum quidem consectetur velit</p>
+          <p>Expressing the satisfaction of our clients, testimonials provide firsthand accounts of their positive experiences with our products or services.</p>
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
