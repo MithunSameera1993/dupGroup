@@ -309,7 +309,7 @@
             <div class="card" style='background-image: url("assets/img/more-services-4.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Financial Support & Services</a></h5>
-                <p class="card-text">Comprehensive solutions providing a range of financial services, including loans, investment advice, and financial planning.</p>
+                <p class="card-text">Comprehensive solutions providing a range of financial services, including loans, investment advice, and financial planning.clients in navigating and optimizing their financial well-being.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
