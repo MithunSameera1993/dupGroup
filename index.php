@@ -676,8 +676,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+                <h4>Dhanushka Udayanga</h4>
+                <span>Managing Directer & Founder</span>
               </div>
             </div>
           </div>
