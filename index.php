@@ -820,11 +820,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="ri-question-line"></i>
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+            <h4>What services does your company provide ?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+            We offer a range of services including  hospitality,Vehicle Selling Solution,Landscape Architect & Design,Financial Support & Services tailored to meet the diverse needs of our clients.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
