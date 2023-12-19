@@ -300,7 +300,7 @@
             <div class="card" style='background-image: url("assets/img/more-services-3.jpg");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Landscape Architect & Design</a></h5>
-                <p class="card-text">professional service specializing in creating aesthetically pleasing and functional outdoor spaces. Landscape architects and designers employ artistic and sustainable approaches, integrating elements such as plants, hardscapes, and lighting.</p>
+                <p class="card-text">professional service specializing in creating aesthetically pleasing and functional outdoor spaces.residential gardens to public spaces, ensuring harmonious designs that balance ecological considerations with client preferences</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -309,7 +309,7 @@
             <div class="card" style='background-image: url("assets/img/more-services-4.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Financial Support & Services</a></h5>
-                <p class="card-text">Comprehensive solutions providing a range of financial services, including loans, investment advice, and financial planning. Aimed at assisting individuals and businesses in achieving their monetary goals.</p>
+                <p class="card-text">Comprehensive solutions providing a range of financial services, including loans, investment advice, and financial planning.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
