@@ -281,7 +281,7 @@
             <div class="card" style='background-image: url("assets/img/more-services-1.jpg");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Luxury hotel Chain</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</p>
+                <p class="card-text">property in the chain offers lavish amenities, personalized services, and sophisticated design, creating an indulgent and memorable stay for discerning travelers seeking the epitome of luxury and hospitality</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
