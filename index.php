@@ -281,7 +281,7 @@
             <div class="card" style='background-image: url("assets/img/more-services-1.jpg");' data-aos="fade-up" data-aos-delay="100">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Luxury hotel Chain</a></h5>
-                <p class="card-text">its opulent accommodations, exquisite dining experiences, and impeccable service</p>
+                <p class="card-text">its opulent accommodations, exquisite dining experiences, and impeccable service.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -290,7 +290,7 @@
             <div class="card" style='background-image: url("assets/img/more-services-2.jpg");' data-aos="fade-up" data-aos-delay="200">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Vehicle solutions</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem.</p>
+                <p class="card-text">providing a streamlined and customer-centric experience. This includes a diverse inventory of high-quality vehicles, transparent pricing, and flexible financing options.</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
