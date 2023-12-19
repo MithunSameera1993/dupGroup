@@ -325,7 +325,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Features</h2>
-          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
+          <p> features are designed to meet customer needs, enhance the product or service, and differentiate it from competitors in the market</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="300">
