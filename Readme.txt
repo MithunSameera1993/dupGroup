@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+DUP Group (PVT) Ltd
 
 Template Name: Vesperr
 Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
