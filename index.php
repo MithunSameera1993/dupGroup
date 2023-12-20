@@ -912,7 +912,7 @@
 
               <div>
                 <i class="ri-mail-send-line"></i>
-                <p>dupgrouplk@gmail.com</p>
+                <p>info@dupgroup.lk</p>
               </div>
 
               <div>
